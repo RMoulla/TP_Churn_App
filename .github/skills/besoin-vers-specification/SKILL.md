@@ -1,5 +1,3 @@
-
----
 name: besoin-vers-specification
 description: >-
   Clarifier un besoin d'application ou une évolution fonctionnelle par un entretien
